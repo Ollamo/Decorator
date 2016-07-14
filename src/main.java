@@ -6,7 +6,7 @@ public class main {
         //Sales Ticket Body
         //Sales Ticket Footer1
 //	
-    	System.out.println("莫绮静：");
+    	System.out.println("莫ziying：");
     	System.out.println("第一种情况：");
     	new Header1(new Footer1(new SalesTicket())).prtTicket();
     	System.out.println("第二种情况：");
